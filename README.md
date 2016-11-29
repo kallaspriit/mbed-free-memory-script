@@ -1,4 +1,4 @@
-# mbed-free-memory-script
+# MBED Free Memory Script
 **Simple script for determening how much free memory the MBED platform has currently available.**
 
 Includes configuration for building with PlatformIO but can be used in any other build environment.
